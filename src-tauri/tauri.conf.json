@@ -6,12 +6,12 @@
         "distDir": "../dist"
     },
     "package": {
-        "productName": "Magenta Player",
+        "productName": "Vision Player",
         "version": "../package.json"
     },
     "tauri": {
         "allowlist": {
-            "all": true
+            "all": false
         },
         "bundle": {
             "active": true,
@@ -31,7 +31,7 @@
                 "icons/icon.icns",
                 "icons/icon.ico"
             ],
-            "identifier": "com.flysoft.magenta",
+            "identifier": "com.flysoft.vision",
             "longDescription": "",
             "macOS": {
                 "entitlements": null,
@@ -61,7 +61,7 @@
                 "fullscreen": false,
                 "height": 600,
                 "resizable": true,
-                "title": "Magenta",
+                "title": "Vision",
                 "width": 800
             }
         ]

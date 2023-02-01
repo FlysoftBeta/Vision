@@ -1,8 +1,8 @@
 [package]
-name = "magenta"
+name = "vision-player"
 version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "A media player"
+authors = ["Flysoft"]
 license = ""
 repository = ""
 edition = "2021"
